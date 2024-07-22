@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import OfertaESpecial from '../../../drip_store-1/src/components/OfertaESpecial'
+import OfertaESpecial from '../src/components/OfertaESpecial'
 
 function App() {
   const [count, setCount] = useState(0)
